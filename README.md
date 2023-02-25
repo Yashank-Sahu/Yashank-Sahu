@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Just a student Aspiring to be a Dat
+## Just a student Aspiring to be a Data scientist from JIWAJI UNIVERSITY
 <!--
 **Yashank-Sahu/Yashank-Sahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
