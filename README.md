@@ -1,5 +1,6 @@
 # Hi there, I'm Yashank Sahu 👋
 
+[![GitHub Followers](https://img.shields.io/github/followers/Yashank-Sahu?label=Follow%20Me&style=social)](https://github.comYashank-Sahu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yashank-sahu/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:sahuyashank@gmail.com)
 
